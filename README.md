@@ -15,12 +15,14 @@ Several R packages can access trait data:
 We can refer to https://opentraits.org/datasets.html
 
 
-Package         | Release URL                                       | Dev. URL                                                                                    | Taxonomic Group(s)                | Database(s)
-----------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------|----------------------------
-`BIEN`          | https://cran.r-project.org/package=BIEN           | https://github.com/bjmaitner/RBIEN                                                          | plants (vascular plants + ferns)  | BIEN (bien.nceas.ucsb.edu/)  
-`TR8`           | https://cran.r-project.org/package=TR8            | https://github.com/GioBo/TR8                                                                | plants (vascular plants?)         |  
-`traits`        | https://cran.r-project.org/package=traits         | https://github.com/ropensci/traits                                                          | many                              |  
-`austraits`     | NA                                                | https://github.com/traitecoevo/austraits                                                    | plants                            | AusTraits
-`rYoutheria`    | https://cran.r-project.org/package=rYoutheria     | https://github.com/BiologicalRecordsCentre/rYoutheria                                       | mammals                           |  
-`algaeClassify` | https://cran.r-project.org/package=algaeClassify  | https://github.com/vppatil/GEISHA_phytoplankton/tree/master/package%20builds/algaeClassify  | Algae                             |  
-`spidR`/`arakno`| https://cran.r-project.org/package=arakno         | NA                                                                                          | spiders                           | World Spider Trait database 
+Package           | Release URL                                       | Dev. URL                                                                                    | Taxonomic Group(s)                | Database(s)
+------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------|----------------------------
+`BIEN`            | https://cran.r-project.org/package=BIEN           | https://github.com/bjmaitner/RBIEN                                                          | plants (vascular plants + ferns)  | BIEN (bien.nceas.ucsb.edu/)  
+`TR8`             | https://cran.r-project.org/package=TR8            | https://github.com/GioBo/TR8                                                                | plants (vascular plants?)         |  
+`traits`          | https://cran.r-project.org/package=traits         | https://github.com/ropensci/traits                                                          | many                              |  
+`austraits`       | NA                                                | https://github.com/traitecoevo/austraits                                                    | plants                            | AusTraits
+`rYoutheria`      | https://cran.r-project.org/package=rYoutheria     | https://github.com/BiologicalRecordsCentre/rYoutheria                                       | mammals                           |  
+`algaeClassify`   | https://cran.r-project.org/package=algaeClassify  | https://github.com/vppatil/GEISHA_phytoplankton/tree/master/package%20builds/algaeClassify  | Algae                             |  
+`spidR`/`arakno`  | https://cran.r-project.org/package=arakno         | NA                                                                                          | spiders                           | World Spider Trait database
+`functionaltraits`| NA                                                | https://github.com/conservationscience/functionaltraits                                     | many                              | many     
+`frubase`         | NA                                                | https://github.com/pedroj/FRUBASE                                                           | fleshy fruits                     | FRUBASE
