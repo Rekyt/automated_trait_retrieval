@@ -1,8 +1,16 @@
 # Automated Trait Retrieval
 
-Here I compile a list of software that gives programmatic access to species functional trait data.
+<!--badges: start -->
+[![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#maturing)
+<!--badges: end -->
 
-Many of these tools are referenced in https://opentraits.org/datasets.html
+Here I compile a list of software that gives programmatic access to species functional trait data.
+The idea would be to draw the panorama of trait databases available out there,
+for programmatic functional biogeography (especially for plants).
+
+Many of the tools and databases are referenced at https://opentraits.org/datasets.html
+
+
 
 ## R packages
 
