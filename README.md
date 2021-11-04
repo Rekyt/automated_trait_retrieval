@@ -14,7 +14,7 @@ Package           | Release URL                                       | Dev. URL
 `BIEN`            | https://cran.r-project.org/package=BIEN           | https://github.com/bjmaitner/RBIEN                                                          | plants (vascular plants + ferns)  | BIEN (bien.nceas.ucsb.edu/)  
 `frubase`         | NA                                                | https://github.com/pedroj/FRUBASE                                                           | fleshy fruits                     | FRUBASE
 `functionaltraits`| NA                                                | https://github.com/conservationscience/functionaltraits                                     | many                              | many     
-`parrottraits`    |                                                   | https://github.com/trashbirdecology/parrottraits                                            | parrots                           | Burgio et al. 2018 
+`parrottraits`    |                                                   | https://github.com/trashbirdecology/parrottraits                                            | parrots                           | Burgio et al. 2018
 `rdataretriever`  | https://cran.r-project.org/package=rdataretriever | https://github.com/ropensci/rdataretriever                                                  | many                              |  
 `rtry`            | NA                                                | https://github.com/MPI-BGC-Functional-Biogeography/rtry                                     | plants                            | TRY  
 `rYoutheria`      | https://cran.r-project.org/package=rYoutheria     | https://github.com/BiologicalRecordsCentre/rYoutheria                                       | mammals                           |  
@@ -31,4 +31,11 @@ Modules           | Release URL                                       | Dev. URL
 
 ## Julia modules
 
+None to our knowledge
+
 ## Other
+
+
+## Contributing
+
+If you want to add your preferred package/module to the list feel free to [open a PR](https://github.com/Rekyt/automated_trait_retrieval/pulls/new)!
