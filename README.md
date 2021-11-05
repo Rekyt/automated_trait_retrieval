@@ -24,6 +24,7 @@ Package           | Release URL                                       | Dev. URL
 `functionaltraits`| NA                                                | https://github.com/conservationscience/functionaltraits                                     | many                              | many     
 `parrottraits`    |                                                   | https://github.com/trashbirdecology/parrottraits                                            | parrots                           | Burgio et al. 2018
 `rdataretriever`  | https://cran.r-project.org/package=rdataretriever | https://github.com/ropensci/rdataretriever                                                  | many                              |  
+`rfishbase`       | https://cran.r-project.org/package=rfishbase      | https://github.com/ropensci/rfishbase                                                       | fishes and marine organisms       | FishBase and SeaLifeBase  
 `rtry`            | NA                                                | https://github.com/MPI-BGC-Functional-Biogeography/rtry                                     | plants                            | TRY  
 `rYoutheria`      | https://cran.r-project.org/package=rYoutheria     | https://github.com/BiologicalRecordsCentre/rYoutheria                                       | mammals                           |  
 `TR8`             | https://cran.r-project.org/package=TR8            | https://github.com/GioBo/TR8                                                                | plants (vascular plants?)         |  
