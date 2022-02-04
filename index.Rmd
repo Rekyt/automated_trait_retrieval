@@ -1,0 +1,39 @@
+# The future of computational trait ecology: a review of accessible traits databases
+
+Trait ecology is becoming more data-intensive. As the rest of ecology. Also with the use of remote-sensing data to increase the scale of analyses.
+
+Trait databases are paramount to collate and make all these data accessible. Several initiatives have structured to make trait accessible on specific taxonomic groups (TRY, BIEN, CoralTraits, etc.)
+
+Mention importance of open trait to advance science.
+
+However no review of the current tools that describe contemporary functional biogeography.
+
+Here we aim to describe all the tools to extract trait data, and lay down principles to make them more useful to the users.
+
+
+## Review of packages
+
+Insert table of packages
+
+Compare features.
+
+
+## Principles for future databases and tools
+
+If we want to structure trait databases as a federated network (as suggested by OpenTraits) we could structure the data in a specific way.
+
+Trait interoperability. Interoperability of traits between independent databases through trait conversion table, ideally referring to trait ontologies. (AusTraits offer a conversion table to TRY).
+
+Granularity. Let the user extract single trait data simply. And not always all trait data.
+
+Citeable data subsets. Like GBIF could be nice to integrate unique DOIs.
+
+Allow export to standardized format. Maybe consider standard format like EML, DarwinCore and recent EcologicalTraitStandard to export some data in a similar fashion. This would increase interoperability.
+
+Build a companion R package. Even easier to extract data from it.
+
+## Issues
+
+No single trait database for animals or even mammals. Data is scattered around mmultiple datasets that continuously need to be aligned in order to work on them.
+
+
