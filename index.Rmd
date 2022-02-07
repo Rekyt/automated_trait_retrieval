@@ -1,5 +1,7 @@
 # The future of computational trait ecology: a review of accessible traits databases
 
+Alt title: Trait-based ecology in the 21st century: a review of accessible trait databases and perspectives
+
 Trait ecology is becoming more data-intensive. As the rest of ecology. Also with the use of remote-sensing data to increase the scale of analyses.
 
 Trait databases are paramount to collate and make all these data accessible. Several initiatives have structured to make trait accessible on specific taxonomic groups (TRY, BIEN, CoralTraits, etc.)
