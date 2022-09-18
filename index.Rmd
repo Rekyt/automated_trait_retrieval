@@ -38,4 +38,6 @@ Build a companion R package. Even easier to extract data from it.
 
 No single trait database for animals or even mammals. Data is scattered around mmultiple datasets that continuously need to be aligned in order to work on them.
 
+## Potentially interesting references
 
+- Cornford, R., Millard, J., González-Suárez, M., Freeman, R. and Johnson, T.F. (2022), Automated synthesis of biodiversity knowledge requires better tools and standardised research output. Ecography, 2022: e06068. https://doi.org/10.1111/ecog.06068
