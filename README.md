@@ -35,6 +35,7 @@ Package           | Release URL                                       | Dev. URL
 `rtry`            | NA                                                | https://github.com/MPI-BGC-Functional-Biogeography/rtry                                     | plants                            | TRY  
 `rYoutheria`      | https://cran.r-project.org/package=rYoutheria     | https://github.com/BiologicalRecordsCentre/rYoutheria                                       | mammals                           |  
 `TR8`             | https://cran.r-project.org/package=TR8            | https://github.com/GioBo/TR8                                                                | plants (vascular plants?)         |  
+`traitdata`       | NA                                                | https://github.com/RS-Eco/traitdata                                                         | many                              | many                        
 `traits`          | https://cran.r-project.org/package=traits         | https://github.com/ropensci/traits                                                          | many                              |  
 
 
